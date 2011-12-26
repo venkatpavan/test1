@@ -1,0 +1,35 @@
+Global setup:
+
+ Set up git
+  git config --global user.name "venkatpavan"
+  git config --global user.email chilakav@zlab.com.au
+      
+
+Next steps:
+
+  mkdir test1
+  cd test1
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:venkatpavan/test1.git
+  git push -u origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin git@github.com:venkatpavan/test1.git
+  git push -u origin master
+      
+
+Importing a Subversion Repo?
+
+  Click here
+      
+
+When you're done:
+
+  Continue
+
