@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="testusersdbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="testusersdbModelStoreContainer">
+    <EntitySet Name="users" EntityType="testusersdbModel.Store.users" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="first name" Type="nchar" Nullable="false" MaxLength="10" />
+    <Property Name="lastname" Type="nchar" Nullable="false" MaxLength="10" />
+    <Property Name="city" Type="nchar" MaxLength="10" />
+  </EntityType>
+</Schema>
