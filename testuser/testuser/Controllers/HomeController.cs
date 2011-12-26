@@ -9,6 +9,13 @@ namespace testuser.Controllers
 {
     public class HomeController : Controller
     {
+
+        //
+        // GET: /About/
+        public ActionResult About()
+        {
+            return View();
+        }
         //
         // GET: /Home/
         private testusersdbEntities _db = new testusersdbEntities();
