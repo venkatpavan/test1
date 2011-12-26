@@ -3,3 +3,8 @@ c:\documents and settings\user\my documents\visual studio 2010\Projects\testuser
 c:\documents and settings\user\my documents\visual studio 2010\Projects\testuser\testuser\obj\Debug\ResolveAssemblyReference.cache
 c:\documents and settings\user\my documents\visual studio 2010\Projects\testuser\testuser\obj\Debug\testuser.dll
 c:\documents and settings\user\my documents\visual studio 2010\Projects\testuser\testuser\obj\Debug\testuser.pdb
+E:\venkat\test1\testuser\testuser\bin\testuser.dll
+E:\venkat\test1\testuser\testuser\bin\testuser.pdb
+E:\venkat\test1\testuser\testuser\obj\Debug\ResolveAssemblyReference.cache
+E:\venkat\test1\testuser\testuser\obj\Debug\testuser.dll
+E:\venkat\test1\testuser\testuser\obj\Debug\testuser.pdb
